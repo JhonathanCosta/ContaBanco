@@ -1,5 +1,5 @@
 # ContaBanco
-Certamente! Abaixo está um README para o código Java "ContaTerminal":
+
 
 # ContaTerminal - Aplicativo de Registro de Conta Bancária
 
